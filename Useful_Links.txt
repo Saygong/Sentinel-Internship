@@ -1,0 +1,45 @@
+Sentinel become a ninja:
+https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310
+
+
+Official documentation:
+https://docs.microsoft.com/en-us/azure/sentinel/
+
+
+Official course sentinel:
+https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/?wt.mc_id=SecNinja_sentinelninjatraining
+
+
+Microsoft Defender for Identity (Azure ATP):
+https://docs.microsoft.com/en-us/defender-for-identity/what-is
+
+
+Microsoft Defender for Cloud Apps:
+https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+
+
+Documentazione dei vari EventID Microsoft:
+https://docs.microsoft.com/it-it/windows/security/threat-protection/auditing/event-4624
+
+
+Useful data to query:
+{ 
+	Link for test sentinel environment "DemoLogsBlade":                     
+	https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade
+
+	Azure Data Explorer:                                                 
+	https://dataexplorer.azure.com/clusters/teachjing.westus
+}
+
+
+Interesting articles from IEEE Xplore:
+{ 
+	Cyber Security Metrics for Performance Measurement in E-Business:
+	https://ieeexplore.ieee.org/document/8748525
+
+	Cyber KPI for Return on Security Investment:
+	https://ieeexplore.ieee.org/document/8899375
+
+	Efficient Security Measurements and Metrics for Risk Assessment: 
+	https://ieeexplore.ieee.org/document/4561338
+}
