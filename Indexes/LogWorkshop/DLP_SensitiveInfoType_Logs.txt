@@ -1,0 +1,163 @@
+﻿"TimeGenerated [UTC]",SensitiveInfoTypeName,"EndpointMetaData_TargetDomain_s"
+"9/3/2022, 08:05:04.432","EU National Identification Number",
+"9/3/2022, 08:05:04.432","EU Tax Identification Number (TIN)",
+"9/3/2022, 08:05:04.432","Italy Fiscal Code",
+"9/3/2022, 08:05:06.196","EU National Identification Number","wetransfer.com"
+"9/3/2022, 08:05:06.196","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 08:05:06.196","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 08:20:03.695","Credit Card Number","wetransfer.com"
+"9/3/2022, 08:05:06.321","EU National Identification Number","wetransfer.com"
+"9/3/2022, 08:05:06.321","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 08:05:06.321","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 08:35:02.946","EU National Identification Number","wetransfer.com"
+"9/3/2022, 08:35:02.946","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 08:35:02.946","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 09:10:04.888","EU National Identification Number","wetransfer.com"
+"9/3/2022, 09:10:04.888","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 09:10:04.888","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 13:35:03.198","EU National Identification Number","wetransfer.com"
+"9/3/2022, 13:35:03.198","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 13:35:03.198","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 13:05:04.766","EU National Identification Number","wetransfer.com"
+"9/3/2022, 13:05:04.766","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 13:05:04.766","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 13:05:05.300","EU National Identification Number",
+"9/3/2022, 13:05:05.300","EU Tax Identification Number (TIN)",
+"9/3/2022, 13:05:05.300","Italy Fiscal Code",
+"9/3/2022, 13:40:04.230","EU National Identification Number","wetransfer.com"
+"9/3/2022, 13:40:04.230","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 13:40:04.230","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 14:20:25.406","Credit Card Number","wetransfer.com"
+"9/3/2022, 11:45:05.269","EU National Identification Number","wetransfer.com"
+"9/3/2022, 11:45:05.269","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 11:45:05.269","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 08:45:04.340","EU National Identification Number","wetransfer.com"
+"9/3/2022, 08:45:04.340","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 08:45:04.340","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 08:45:06.590","EU National Identification Number","wetransfer.com"
+"9/3/2022, 08:45:06.590","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 08:45:06.590","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 14:20:27.137","Credit Card Number",
+"9/3/2022, 08:45:04.261","Credit Card Number","wetransfer.com"
+"9/3/2022, 08:50:03.636","EU National Identification Number","wetransfer.com"
+"9/3/2022, 08:50:03.636","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 08:50:03.636","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 11:00:04.561","Credit Card Number","wetransfer.com"
+"9/3/2022, 11:00:06.638","EU National Identification Number","wetransfer.com"
+"9/3/2022, 11:00:06.638","EU Tax Identification Number (TIN)","wetransfer.com"
+"9/3/2022, 11:00:06.638","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 14:15:04.821","Credit Card Number","wetransfer.com"
+"9/3/2022, 14:35:03.351","Credit Card Number","wetransfer.com"
+"3/3/2022, 10:10:03.336","EU National Identification Number","wetransfer.com"
+"3/3/2022, 10:10:03.336","EU Tax Identification Number (TIN)","wetransfer.com"
+"3/3/2022, 10:10:03.336","Italy Fiscal Code","wetransfer.com"
+"3/3/2022, 08:10:05.129","EU National Identification Number","wetransfer.com"
+"3/3/2022, 08:10:05.129","EU Tax Identification Number (TIN)","wetransfer.com"
+"3/3/2022, 08:10:05.129","Italy Fiscal Code","wetransfer.com"
+"3/3/2022, 08:10:04.371","EU National Identification Number",
+"3/3/2022, 08:10:04.371","EU Tax Identification Number (TIN)",
+"3/3/2022, 08:10:04.371","Italy Fiscal Code",
+"2/3/2022, 15:25:03.657","EU National Identification Number","wetransfer.com"
+"2/3/2022, 15:25:03.657","EU Tax Identification Number (TIN)","wetransfer.com"
+"2/3/2022, 15:25:03.657","Italy Fiscal Code","wetransfer.com"
+"9/3/2022, 14:40:04.147","Credit Card Number","wetransfer.com"
+"10/3/2022, 11:30:02.672","Credit Card Number","wetransfer.com"
+"15/3/2022, 09:05:03.739","[Custom] Phone number","wetransfer.com"
+"15/3/2022, 09:05:03.739","International Banking Account Number (IBAN)","wetransfer.com"
+"15/3/2022, 08:45:04.317","[Custom] Phone number","wetransfer.com"
+"15/3/2022, 08:45:04.317","International Banking Account Number (IBAN)","wetransfer.com"
+"15/3/2022, 09:15:05.239","EU Driver's License Number",
+"15/3/2022, 09:15:05.239","Slovenia Tax Identification Number",
+"15/3/2022, 09:15:05.239","Austria Driver's License Number",
+"15/3/2022, 09:15:05.239","Croatia Driver's License Number",
+"15/3/2022, 09:15:05.239","Denmark Driver's License Number",
+"15/3/2022, 09:15:05.239","Lithuania Driver's License Number",
+"15/3/2022, 09:15:05.239","Malta Driver's License Number",
+"15/3/2022, 09:15:05.239","Slovakia Driver's License Number",
+"15/3/2022, 09:15:04.890","EU Driver's License Number",
+"15/3/2022, 09:15:04.890","Slovenia Tax Identification Number",
+"15/3/2022, 09:15:04.890","Austria Driver's License Number",
+"15/3/2022, 09:15:04.890","Croatia Driver's License Number",
+"15/3/2022, 09:15:04.890","Denmark Driver's License Number",
+"15/3/2022, 09:15:04.890","Lithuania Driver's License Number",
+"15/3/2022, 09:15:04.890","Malta Driver's License Number",
+"15/3/2022, 09:15:04.890","Slovakia Driver's License Number",
+"15/3/2022, 09:20:03.233","EU Driver's License Number",
+"15/3/2022, 09:20:03.233","Slovenia Tax Identification Number",
+"15/3/2022, 09:20:03.233","Austria Driver's License Number",
+"15/3/2022, 09:20:03.233","Croatia Driver's License Number",
+"15/3/2022, 09:20:03.233","Denmark Driver's License Number",
+"15/3/2022, 09:20:03.233","Lithuania Driver's License Number",
+"15/3/2022, 09:20:03.233","Malta Driver's License Number",
+"15/3/2022, 09:20:03.233","Slovakia Driver's License Number",
+"15/3/2022, 09:20:08.695","EU Driver's License Number",
+"15/3/2022, 09:20:08.695","Slovenia Tax Identification Number",
+"15/3/2022, 09:20:08.695","Austria Driver's License Number",
+"15/3/2022, 09:20:08.695","Croatia Driver's License Number",
+"15/3/2022, 09:20:08.695","Denmark Driver's License Number",
+"15/3/2022, 09:20:08.695","Lithuania Driver's License Number",
+"15/3/2022, 09:20:08.695","Malta Driver's License Number",
+"15/3/2022, 09:20:08.695","Slovakia Driver's License Number",
+"15/3/2022, 09:20:05.801","EU Driver's License Number",
+"15/3/2022, 09:20:05.801","Slovenia Tax Identification Number",
+"15/3/2022, 09:20:05.801","Austria Driver's License Number",
+"15/3/2022, 09:20:05.801","Croatia Driver's License Number",
+"15/3/2022, 09:20:05.801","Denmark Driver's License Number",
+"15/3/2022, 09:20:05.801","Lithuania Driver's License Number",
+"15/3/2022, 09:20:05.801","Malta Driver's License Number",
+"15/3/2022, 09:20:05.801","Slovakia Driver's License Number",
+"15/3/2022, 09:20:08.229","EU Driver's License Number",
+"15/3/2022, 09:20:08.229","Slovenia Tax Identification Number",
+"15/3/2022, 09:20:08.229","Austria Driver's License Number",
+"15/3/2022, 09:20:08.229","Croatia Driver's License Number",
+"15/3/2022, 09:20:08.229","Denmark Driver's License Number",
+"15/3/2022, 09:20:08.229","Lithuania Driver's License Number",
+"15/3/2022, 09:20:08.229","Malta Driver's License Number",
+"15/3/2022, 09:20:08.229","Slovakia Driver's License Number",
+"14/3/2022, 17:15:05.497","EU National Identification Number",
+"14/3/2022, 17:15:05.497","EU Tax Identification Number (TIN)",
+"14/3/2022, 17:15:05.497","Italy Fiscal Code",
+"14/3/2022, 17:20:03.487","EU National Identification Number",
+"14/3/2022, 17:20:03.487","EU Tax Identification Number (TIN)",
+"14/3/2022, 17:20:03.487","Italy Fiscal Code",
+"14/3/2022, 17:20:03.182","EU National Identification Number",
+"14/3/2022, 17:20:03.182","EU Tax Identification Number (TIN)",
+"14/3/2022, 17:20:03.182","Italy Fiscal Code",
+"14/3/2022, 17:20:04.661","EU National Identification Number",
+"14/3/2022, 17:20:04.661","EU Tax Identification Number (TIN)",
+"14/3/2022, 17:20:04.661","Italy Fiscal Code",
+"14/3/2022, 17:20:05.821","EU National Identification Number",
+"14/3/2022, 17:20:05.821","EU Tax Identification Number (TIN)",
+"14/3/2022, 17:20:05.821","Italy Fiscal Code",
+"14/3/2022, 17:15:04.709","EU National Identification Number","wetransfer.com"
+"14/3/2022, 17:15:04.709","EU Tax Identification Number (TIN)","wetransfer.com"
+"14/3/2022, 17:15:04.709","Italy Fiscal Code","wetransfer.com"
+"14/3/2022, 17:15:03.607","EU National Identification Number","wetransfer.com"
+"14/3/2022, 17:15:03.607","EU Tax Identification Number (TIN)","wetransfer.com"
+"14/3/2022, 17:15:03.607","Italy Fiscal Code","wetransfer.com"
+"16/3/2022, 08:10:04.617","EU Driver's License Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","New Zealand Inland Revenue number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Slovenia Tax Identification Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Austria Driver's License Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Croatia Driver's License Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Denmark Driver's License Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Lithuania Driver's License Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Malta Driver's License Number","wetransfer.com"
+"16/3/2022, 08:10:04.617","Slovakia Driver's License Number","wetransfer.com"
+"16/3/2022, 11:35:04.139","[Custom] Phone number","wetransfer.com"
+"16/3/2022, 11:35:04.139","International Banking Account Number (IBAN)","wetransfer.com"
+"16/3/2022, 12:00:05.512","[Custom] Phone number","wetransfer.com"
+"16/3/2022, 12:00:05.512","International Banking Account Number (IBAN)","wetransfer.com"
+"16/3/2022, 12:00:05.060","EU Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","New Zealand Inland Revenue number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Slovenia Tax Identification Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Austria Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Croatia Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Denmark Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Lithuania Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Malta Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.060","Slovakia Driver's License Number","wetransfer.com"
+"16/3/2022, 12:00:05.991","[Custom] Phone number","wetransfer.com"
+"16/3/2022, 12:00:05.991","International Banking Account Number (IBAN)","wetransfer.com"
+"16/3/2022, 12:00:03.767","[Custom] Phone number","wetransfer.com"
+"16/3/2022, 12:00:03.767","International Banking Account Number (IBAN)","wetransfer.com"

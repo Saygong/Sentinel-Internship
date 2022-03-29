@@ -1,0 +1,7 @@
+// Indice di anomalia -> studia nel breve tempo (3 giorni) le anomalie nel traffico della rete
+// Expected: Durante il giorno un traffico sostenuto, durante la notte un traffico ridotto
+
+NetworkMonitoring
+| where TimeGenerated > ago(3d)
+| summarize Count=count() by bin(TimeGenerated, 1h)
+// render barchart(xaxis=TimeGenerated, yaxis=Count)

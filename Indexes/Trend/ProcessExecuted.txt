@@ -1,0 +1,9 @@
+// Indice di anomalia -> studia nel breve periodo (5 giorni) il numero di processi a cui è stata permessa l'esecuzione
+// Expected: Il numero di processi dovrebbe essere stabile o mantenere un pattern costante (potenzialmente di giorno sostenuto e di notte ridotto)
+
+
+SecurityEvent
+| where TimeGenerated > ago(5d)
+| where EventID == 4688
+| summarize Count=count() by bin(TimeGenerated, 1h)
+//| render barchart(xaxis=TimeGenerated, yaxis=Count) 

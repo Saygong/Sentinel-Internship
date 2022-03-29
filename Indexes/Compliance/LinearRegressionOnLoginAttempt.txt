@@ -1,0 +1,18 @@
+// Indice di conformità -> studia il numero di tentativi di login in un giorno insieme al numero di tentativi falliti
+// Expected: Il rapporto tra i due valori dovrebbe essere lineare (proporzionale), all'aumentare di uno aumenta anche l'altro
+
+
+SigninLogs
+| where TimeGenerated > ago(100d)
+| summarize Count_Tot=count() by Tot=bin(TimeGenerated, 1d)
+| join kind=inner(
+SigninLogs
+| where TimeGenerated > ago(100d)
+| where ResultType != 0
+| summarize Count_Fail=count() by bin(TimeGenerated, 1d)) on $left.Tot==$right.TimeGenerated
+| project-away Tot, TimeGenerated
+| order by Count_Tot asc
+//| render scatterchart with (xaxis=Count_Tot, yaxis=Count_Fail)
+
+
+

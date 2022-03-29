@@ -1,0 +1,31 @@
+// Indice di conformità -> studia il numero di e-mail in ricezione e le divide in base al verdetto del filtro 
+// Expected: Il numero di e-mail giudicate negativamente dal filtro dovrebbe essere minimo
+
+
+EmailEvents
+| where TimeGenerated > ago(100d)
+| summarize Count=count() by EmailAction
+//| render piechart
+
+
+
+
+
+
+// Dato che non c'è la tabella EmailEvents o faccio lo scatolone fabbricone oppure posso proporre questi dati:
+
+
+
+// Indice di conformità -> studia il numero di eventi di DLP individuati e ne raccoglie i risultati suddividendoli per SentitiveInfoTypeName 
+// Expected: 
+
+union DLP_Investigation_CL
+| where EndpointMetaData_SensitiveInfoTypeData_s != ""
+| mv-expand todynamic(EndpointMetaData_SensitiveInfoTypeData_s)
+| evaluate bag_unpack(EndpointMetaData_SensitiveInfoTypeData_s)
+| project SensitiveInfoTypeName
+| summarize count() by SensitiveInfoTypeName
+
+
+
+

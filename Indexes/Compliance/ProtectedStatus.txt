@@ -1,0 +1,45 @@
+
+
+
+// Indice di conformità -> mostra il numero di dispositivi protetti e non protetti divisi per OSName
+// Expected: Il numero di dispositivi non protetti dovrebbe essere minimo
+
+
+ProtectionStatus
+| where TimeGenerated > ago(100d)
+| summarize Count_Unprotected=dcount(SourceComputerId) by ProtectionStatus, OSName, TypeofProtection
+| where ProtectionStatus has "out of date" or ProtectionStatus has "No real time protection" or TypeofProtection has "No Anti-Malware" 
+| project OSName, Count_Unprotected
+| union (
+ProtectionStatus
+| where TimeGenerated > ago(100d)
+| summarize Count_Protected=dcount(SourceComputerId) by ProtectionStatus, OSName, TypeofProtection
+| where ProtectionStatus == "Real time protection" 
+| project OSName, Count_Protected)
+//| render stackedbarchart(xaxis=OSName, yaxis=Count)
+
+
+
+
+
+
+
+
+
+
+
+//Tot_Unprotected
+ProtectionStatus
+| where TimeGenerated > ago(100d)
+| summarize Count=dcount(SourceComputerId) by ProtectionStatus
+| where ProtectionStatus has "out of date" or ProtectionStatus has "No real time protection"
+| summarize Tot_Unprotected=sum(Count)
+
+
+//Tot_Protected
+ProtectionStatus
+| where TimeGenerated > ago(100d)
+| summarize Count=dcount(SourceComputerId) by ProtectionStatus
+| where ProtectionStatus == "Real time protection" 
+| summarize Tot_Protected=sum(Count)
+

@@ -1,0 +1,244 @@
+EmailID,EmailAction
+549264,Sent to junk
+793087,No action taken
+350396,Sent to junk
+945634,Sent to junk
+731684,Deleted
+647715,No action taken
+643990,Redirected
+825757,Sent to junk
+986405,No action taken
+311205,Sent to junk
+462293,No action taken
+915423,No action taken
+931549,Redirected
+961846,Deleted
+303046,Sent to junk
+309333,No action taken
+429872,No action taken
+634345,Sent to junk
+826571,No action taken
+295940,Sent to junk
+638872,Sent to junk
+798333,Redirected
+922839,No action taken
+607984,No action taken
+554062,Redirected
+184961,Redirected
+513788,Redirected
+656961,Sent to junk
+350092,No action taken
+871919,No action taken
+697007,Redirected
+207653,No action taken
+400834,Deleted
+952949,No action taken
+617037,No action taken
+742076,No action taken
+886696,Sent to junk
+134980,No action taken
+699672,Redirected
+757985,No action taken
+987134,Sent to junk
+613264,Sent to junk
+457863,No action taken
+858995,No action taken
+821909,Sent to junk
+112901,Sent to junk
+261549,Sent to quarantine
+795485,Redirected
+682096,No action taken
+221971,Sent to junk
+567823,No action taken
+151306,Redirected
+616492,Deleted
+453612,Deleted
+258067,Redirected
+330502,No action taken
+582298,Sent to junk
+313405,Sent to junk
+221052,Sent to quarantine
+134976,No action taken
+941995,No action taken
+503955,No action taken
+781376,Sent to quarantine
+529636,Sent to junk
+479093,No action taken
+580194,No action taken
+906789,Sent to quarantine
+868403,No action taken
+763646,No action taken
+739205,Sent to quarantine
+417236,Sent to quarantine
+455355,Redirected
+495950,Sent to junk
+618380,No action taken
+477118,No action taken
+390214,No action taken
+605705,Sent to quarantine
+208608,No action taken
+389757,No action taken
+155560,Sent to junk
+234976,Sent to junk
+889465,Deleted
+328832,Sent to junk
+481417,Redirected
+684928,Redirected
+606523,Sent to junk
+621906,Redirected
+761014,Redirected
+875404,No action taken
+231327,Sent to junk
+432329,Sent to quarantine
+669582,No action taken
+352870,Deleted
+712470,No action taken
+553805,Sent to quarantine
+703517,No action taken
+580453,No action taken
+240119,Sent to junk
+817911,Redirected
+718993,Redirected
+958281,Redirected
+451774,No action taken
+861737,Deleted
+236379,Deleted
+513710,Sent to junk
+115021,Sent to junk
+839805,No action taken
+935590,No action taken
+196572,Redirected
+955417,No action taken
+671443,No action taken
+505479,No action taken
+925469,Sent to junk
+808859,Sent to quarantine
+879834,No action taken
+782463,Redirected
+888877,Redirected
+764913,Redirected
+922339,No action taken
+692850,Sent to junk
+167839,Sent to junk
+261576,No action taken
+930725,No action taken
+506713,Deleted
+647792,No action taken
+368636,No action taken
+694186,Deleted
+864746,Sent to junk
+368168,No action taken
+793548,Redirected
+588637,Sent to junk
+885281,Sent to quarantine
+794684,Deleted
+333678,No action taken
+481847,Sent to junk
+918261,Sent to quarantine
+833084,Sent to junk
+315133,No action taken
+451862,Sent to junk
+788194,No action taken
+764981,No action taken
+752952,Redirected
+295332,No action taken
+250206,Deleted
+349946,No action taken
+388493,No action taken
+944664,No action taken
+785270,Sent to junk
+823646,Redirected
+134270,No action taken
+508901,No action taken
+546269,Sent to junk
+708865,Sent to junk
+267347,No action taken
+121813,No action taken
+506565,No action taken
+141287,Deleted
+192248,Sent to junk
+835704,Sent to quarantine
+818384,Redirected
+686444,Deleted
+945295,Redirected
+308278,Sent to junk
+690360,Sent to quarantine
+279176,Redirected
+638538,Sent to quarantine
+500231,Redirected
+241033,No action taken
+426536,No action taken
+939042,No action taken
+984114,No action taken
+767848,Sent to junk
+182623,Redirected
+331320,No action taken
+983783,Sent to junk
+371584,Sent to quarantine
+897554,Deleted
+354355,Deleted
+748265,No action taken
+751386,Redirected
+893245,Sent to quarantine
+580077,Sent to junk
+793622,Sent to quarantine
+209202,Sent to junk
+166359,No action taken
+550067,No action taken
+967092,No action taken
+689784,No action taken
+737192,Sent to junk
+540225,No action taken
+202111,No action taken
+181931,No action taken
+973575,Sent to quarantine
+393908,Redirected
+754977,Sent to junk
+407533,Deleted
+497566,Deleted
+772266,Sent to quarantine
+713894,No action taken
+639300,Redirected
+378551,No action taken
+816409,Redirected
+729960,Sent to quarantine
+772051,No action taken
+905537,No action taken
+550412,Redirected
+814648,Sent to junk
+184655,No action taken
+603853,Deleted
+354432,Sent to junk
+705354,No action taken
+383184,No action taken
+782826,Sent to junk
+314349,No action taken
+684763,Deleted
+860509,No action taken
+403202,Redirected
+158241,No action taken
+268234,Deleted
+336747,No action taken
+769069,No action taken
+696577,No action taken
+716577,No action taken
+672896,No action taken
+626082,No action taken
+866817,Sent to junk
+568230,No action taken
+327989,Sent to junk
+287842,No action taken
+983321,No action taken
+895487,Sent to quarantine
+577896,Redirected
+635148,No action taken
+564309,No action taken
+129180,Sent to quarantine
+448819,Sent to junk
+794740,Redirected
+650791,Sent to quarantine
+807494,Redirected
+972745,Sent to quarantine
+910145,No action taken
+135748,Redirected
+687496,Sent to junk

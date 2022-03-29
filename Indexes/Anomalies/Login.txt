@@ -1,0 +1,19 @@
+// Indice di anomalia -> studia nel breve tempo (5 giorni) il numero di login effettuati
+// Expected: Durante il giorno un numero di login sostenuto, durante la notte un numero ridotto (a scanso di ricorrenze particolari)
+
+SigninLogs
+| where TimeGenerated > ago(5d)
+| summarize LoginCount=count() by bin(TimeGenerated, 1h)
+//| render barchart(xaxis=TimeGenerated, yaxis=LoginCount)
+
+
+
+
+
+
+// da riprovare alle 17 
+
+SigninLogs
+| where TimeGenerated > ago(3d)
+| summarize LoginCount=count() by bin(TimeGenerated, 1h)
+//| render barchart(xaxis=TimeGenerated, yaxis=LoginCount)

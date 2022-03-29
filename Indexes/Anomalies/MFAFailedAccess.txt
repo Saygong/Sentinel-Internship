@@ -1,0 +1,25 @@
+
+// Indice di andamento -> studia nel lungo periodo (100 giorni) il numero di accessi falliti per colpa dell'autenticazione a due fattori
+// Expected: Il numero di accessi bloccati per colpa dell'MFA dovrebbe essere stabile
+
+
+SigninLogs
+| where TimeGenerated > ago(60d)
+| where ResultDescription has "not pass"
+| summarize MFAFailedAccess=count() by bin(TimeGenerated, 1h)  // 1d for daily monitor
+// render linechart(xaxis=TimeGenerated, yaxis=MFAFailedAccess) 
+
+
+
+
+
+
+//50074 code for failed MFA challenge
+//50076 code for failed MFA challenge (non interactive)
+// Failed MFA challenge 
+// Highlights the count and the resources where sign in failures caused by failed MFA challenge happened for every users
+SigninLogs
+| where ResultType == 50074 or ResultType == 50076
+| where TimeGenerated > ago(100d)
+| project UserDisplayName, Identity,UserPrincipalName, ResultDescription,  AppDisplayName, AppId, ResourceDisplayName
+| summarize FailureCount=count(), FailedResources=dcount(ResourceDisplayName), ResultDescription=any(ResultDescription) by UserDisplayName
