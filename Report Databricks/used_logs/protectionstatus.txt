@@ -1,0 +1,142 @@
+ProtectionStatus,OSName
+Real time protection,Ubuntu Server
+Real time protection,macOS
+Signatures out of date,macOS
+Real time protection,Ubuntu Server
+Unprotected,Ubuntu Server
+Unprotected,macOS
+Real time protection,Linux
+Signatures out of date,macOS
+Unprotected,Microsoft Windows 10
+Unprotected,Linux
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Real time protection,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Signatures out of date,Microsoft Windows Server 2016 Datacenter
+Real time protection,macOS
+Unprotected,Linux
+Unprotected,Microsoft Windows 11
+Unprotected,macOS
+Unprotected,Ubuntu Server
+Unprotected,Microsoft Windows 10
+Signatures out of date,Linux
+Unprotected,Linux
+Signatures out of date,macOS
+Real time protection,Microsoft Windows 11
+Real time protection,Ubuntu Server
+Signatures out of date,Linux
+Unprotected,macOS
+Real time protection,Linux
+Unprotected,Ubuntu Server
+Signatures out of date,Microsoft Windows 11
+Signatures out of date,macOS
+Unprotected,Microsoft Windows 11
+Unprotected,Linux
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,Microsoft Windows 10
+Real time protection,Microsoft Windows 10
+Signatures out of date,macOS
+Unprotected,macOS
+Real time protection,Ubuntu Server
+Signatures out of date,Microsoft Windows 10
+Signatures out of date,Ubuntu Server
+Signatures out of date,Ubuntu Server
+Unprotected,Ubuntu Server
+Real time protection,Microsoft Windows 10
+Signatures out of date,macOS
+Real time protection,Ubuntu Server
+Signatures out of date,Microsoft Windows 10
+Unprotected,Microsoft Windows 11
+Real time protection,Microsoft Windows 10
+Real time protection,Microsoft Windows 11
+Unprotected,Ubuntu Server
+Unprotected,Linux
+Signatures out of date,Ubuntu Server
+Real time protection,macOS
+Unprotected,macOS
+Unprotected,Linux
+Real time protection,macOS
+Unprotected,macOS
+Real time protection,Linux
+Unprotected,Linux
+Real time protection,Linux
+Signatures out of date,Microsoft Windows 10
+Real time protection,Linux
+Unprotected,macOS
+Unprotected,Microsoft Windows 10
+Unprotected,Linux
+Real time protection,Microsoft Windows 10
+Signatures out of date,macOS
+Signatures out of date,Ubuntu Server
+Signatures out of date,macOS
+Signatures out of date,Ubuntu Server
+Real time protection,macOS
+Signatures out of date,Linux
+Signatures out of date,Microsoft Windows 11
+Signatures out of date,Microsoft Windows 10
+Unprotected,Microsoft Windows 10
+Real time protection,Microsoft Windows 10
+Real time protection,Ubuntu Server
+Signatures out of date,macOS
+Real time protection,Linux
+Signatures out of date,Microsoft Windows 11
+Real time protection,macOS
+Real time protection,Microsoft Windows 10
+Unprotected,Microsoft Windows 10
+Signatures out of date,Microsoft Windows 10
+Real time protection,Ubuntu Server
+Real time protection,Ubuntu Server
+Real time protection,Microsoft Windows 10
+Unprotected,macOS
+Unprotected,Microsoft Windows 10
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
+Real time protection,macOS
